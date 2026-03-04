@@ -3,4 +3,4 @@
 Documentation/.~*.docx
 Documentation/.~D-*.docx
 .openshift_install.log
-install-config.yaml
+install-config.yaml.backup
